@@ -18,6 +18,6 @@ matrix:
       file: "build/*/*.zip"
       file_glob: true
       api_key:
-        secure: 
+        secure: n0GDoaAt8xBneBxs4bVQcu/+F4g9r6iM9I8FmblzZfNOeqbkhcvRs9rGx5I32cBE4sP0Bm31Ko1pbvtZQsfid/PtbGznDo+KW3t4buIx3riTWCIhCV2UcZ6hiCAGwUzF5DZ6ILt2/7RX+kiY3Iy2QG+e1Ii/ojrfC5jhlzZYOseRcc5sw6Ec/6SnP9RnjHg1s/jmce8WOt5zQVWUuieVuMQg6kQj8TFJvo1TK6FcsCg8IanwyDiyvDl2yoLJimEDVhFxACfLi7AT8/sABN2V0I2Ver7H6C7CHHtagrM9j4Hx3j1MVAeeltJ1IZwcF+mwvNRuBF3UmhDyW2PI5hBGs5e0zCNU5BbH9mu1h3PmY72uyU2WULqIemQ5qKmioDGUbazKcIdOkn8WBjE6fbrSnUlsMAN/r2kLqsZjqXasMWnwE0+6pSkCHmmx5Ig4uJbcCQ1oBydDH9R+fQbKZBvSc/9kY3HCDjMtXhVNhf3Gtvvc0sqK+uGEuSHanIHemEXDvffIR8mygx9T+M78pQXgHeCQ8vRBoEgav86SMmq7d2Q7KEVoBKuxSUqrSdZOfRDAHlV4YLk0CjlaGB9w8FUpQkCz+5bv2ykykH15Zez1ze2MznRtR7k1ihYw580wKnt9g7OHqmMgZlXCPJHhDDkVbbWImgaNg3TstWfK5bMPiXk=
       on:
         tags: true
