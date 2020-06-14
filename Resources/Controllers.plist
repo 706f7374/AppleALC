@@ -699,45 +699,6 @@
 	</dict>
 	<dict>
 		<key>Device</key>
-		<integer>41800</integer>
-		<key>Name</key>
-		<string>300 Series PCH HD Audio</string>
-		<key>Patches</key>
-		<array>
-			<dict>
-				<key>Count</key>
-				<integer>6</integer>
-				<key>Find</key>
-				<data>cKEAAA==</data>
-				<key>MaxKernel</key>
-				<integer>17</integer>
-				<key>MinKernel</key>
-				<integer>16</integer>
-				<key>Name</key>
-				<string>AppleHDAController</string>
-				<key>Replace</key>
-				<data>SKMAAA==</data>
-			</dict>
-			<dict>
-				<key>Count</key>
-				<integer>1</integer>
-				<key>Find</key>
-				<data>hoBwoQ==</data>
-				<key>MaxKernel</key>
-				<integer>17</integer>
-				<key>MinKernel</key>
-				<integer>16</integer>
-				<key>Name</key>
-				<string>AppleHDAController</string>
-				<key>Replace</key>
-				<data>hoBIow==</data>
-			</dict>
-		</array>
-		<key>Vendor</key>
-		<string>Intel</string>
-	</dict>
-	<dict>
-		<key>Device</key>
 		<integer>3599</integer>
 		<key>Name</key>
 		<string>NVIDIA HDMI for GK208 in 10.13.4+</string>
